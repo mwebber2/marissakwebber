@@ -11,19 +11,19 @@ I'm a new Postdoctoral Research Associate at the University of North Carolina in
 
 
 About
-======
+-----
 
  My doctoral work focused on climate adaptation for stormwater infrastructure in the urban environment, specifically how stakeholders are using climate data for planning and adaptation, and the use of green infrastructure and nature-based solutions for effective adaptation in the face of deep uncertainty associated with climate change.
 
 
 Background
-======
+-----
 
 I received my Doctoral Degree and my Masters Degree from Carnegie Mellon University and my Bachelors of Science in Engineering Degree from Princeton University, all in Civil and Environmental Engineering.
 
 
 Current Projects
-======
+-----
 
 Project 1
 ------
