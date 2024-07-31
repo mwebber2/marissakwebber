@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF: "https://github.com/mwebber2/marissakwebber.github.io/files/mwebber_CV.pdf"
+
 ## Education
 * Ph.D in Civil and Environmental Engineering, Carnegie Mellon University, August 2024
 * M.S. in Civil and Environmental Engineering, Carnegie Mellon University, December 2019
