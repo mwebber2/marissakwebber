@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * Ph.D in Civil and Environmental Engineering, Carnegie Mellon University, August 2024
 * M.S. in Civil and Environmental Engineering, Carnegie Mellon University, December 2019
 * B.S.E. in Civil and Environmental Engineering, Princeton University, June 2018
 
 
-Work experience
+### Work experience
 ======
 * Postdoctoral Research Associate
   * July 2024 - present
@@ -33,7 +33,7 @@ Work experience
   * Carnegie Mellon University
   * Supervisor: Dr. Constantine Samaras
   
-Skills
+### Skills
 ======
 * Application Software:
   * PCSWMM/SWMM
@@ -43,25 +43,25 @@ Skills
   * Python
   * R/RStudio
 
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+### Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+### Service and leadership
 ======
 * Current Professional Memberships
   * Association of Environmental Engineering and Science and Professors (AEESP)
