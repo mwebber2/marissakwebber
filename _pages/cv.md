@@ -10,14 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * Ph.D in Civil and Environmental Engineering, Carnegie Mellon University, August 2024
 * M.S. in Civil and Environmental Engineering, Carnegie Mellon University, December 2019
 * B.S.E. in Civil and Environmental Engineering, Princeton University, June 2018
 
 
 ## Work experience
-======
 * Postdoctoral Research Associate
   * July 2024 - present
   * University of North Carolina at Chapel Hill
@@ -34,7 +32,6 @@ redirect_from:
   * Supervisor: Dr. Constantine Samaras
   
 ## Skills
-======
 * Application Software:
   * PCSWMM/SWMM
   * ArcGIS and QGIS
@@ -44,25 +41,21 @@ redirect_from:
   * R/RStudio
 
 ## Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Talks
-======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 ## Teaching
-======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Service and leadership
-======
 * Current Professional Memberships
   * Association of Environmental Engineering and Science and Professors (AEESP)
   * American Society of Civil Engineers (ASCE)
