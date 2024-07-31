@@ -15,16 +15,13 @@ I received my Doctoral Degree and my Masters Degree from Carnegie Mellon Univers
 My doctoral work focused on climate adaptation for stormwater infrastructure in the urban environment, specifically how stakeholders are using climate data for planning and adaptation, and the use of green infrastructure and nature-based solutions for effective adaptation in the face of deep uncertainty associated with climate change.
 
 
-Current Projects
------
+## Current Projects
 
-Project 1
-------
+### Project 1
 Check back soon for more info!
 
 
-Project 2
-------
+### Project 2
 Check back soon for more info!
 
 
