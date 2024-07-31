@@ -12,7 +12,7 @@ title                    : "Marissa K. Webber"
 title_separator          : "-"
 name                     : &name "Marissa K. Webber"
 description              : &description "personal description"
-url                      : https://marissakwebber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mwebber2.github.io/marissakwebber.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mwebber2/marissakwebber.github.io"
 
