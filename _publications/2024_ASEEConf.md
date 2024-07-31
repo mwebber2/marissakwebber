@@ -2,7 +2,7 @@
 title: "Preparing the Next Generation of Engineers for Decision Making under Deep Uncertainty: Exploring the Pedagogical Role of the Decisions for the Decade Game"
 collection: publications
 permalink: /publication/2024-ASEEConf
-excerpt: 'This analysis aimed to explore the role of a serious game called Decisions for the Decade (D4tD) in teaching students about climate change adaptation and decision making under deep uncertainty within the context of this university’s civil and environmental engineering courses.'
+excerpt: 'This analysis aimed to explore the role of a serious game called Decisions for the Decade in teaching students about climate change adaptation and decision making under deep uncertainty within the context of this university’s civil and environmental engineering courses.'
 date: 2024-06-24
 venue: 'ASEE 2024 Annual Conference Proceedings'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
