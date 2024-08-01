@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-8035-732X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Marissa-Webber-2"
+  researchgate     : #"https://www.researchgate.net/profile/Marissa-Webber-2"
 
    # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
