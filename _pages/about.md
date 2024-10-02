@@ -17,13 +17,9 @@ My doctoral work focused on climate adaptation for stormwater infrastructure in 
 
 ## Current Projects
 
-### Project 1
+### Assessing risk to transportation infrastructure
 Check back soon for more info!
 
 
-### Project 2
+### Identifying hotspots for future flood exposure in North Carolina
 Check back soon for more info!
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
