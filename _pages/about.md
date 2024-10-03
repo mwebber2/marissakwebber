@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marissa K. Webber"
+title:
 author_profile: true
 redirect_from: 
   - /about/
