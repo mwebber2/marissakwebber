@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Marissa!
 
-I'm a new Postdoctoral Research Associate at the University of North Carolina in Chapel Hill in the department of [Earth, Marine, and Environmental Sciences](https://emes.unc.edu/). My research interests include urban stormwater modeling, climate change adaptation, green stormwater infrastructure, and engineering education.
+I'm a Postdoctoral Research Associate at the University of North Carolina in Chapel Hill in the department of [Earth, Marine, and Environmental Sciences](https://emes.unc.edu/). My research interests include urban stormwater modeling, climate change adaptation, green stormwater infrastructure, and engineering education.
 
 I received my Doctoral Degree and my Masters Degree from Carnegie Mellon University and my Bachelors of Science in Engineering Degree from Princeton University, all in Civil and Environmental Engineering.
 
