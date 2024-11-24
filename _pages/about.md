@@ -19,6 +19,10 @@ My doctoral work focused on climate adaptation for stormwater infrastructure in 
 
 ## Current Projects
 
+### Exploring Stochastic Storm Transposition (SST) for eastern North Carolina
+Check back soon for more info!
+
+
 ### Assessing risk to transportation infrastructure
 Check back soon for more info!
 
